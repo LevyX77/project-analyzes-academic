@@ -1,2 +1,11 @@
-# project-analyzes-academic
-This project analyzes academic data using R. It includes statistical analysis, correlation, and regression model.
+# Academic Data Analysis and Prediction System
+
+This project uses R to analyze student data.
+
+It includes:
+- Statistical analysis (mean, median, etc.)
+- Correlation analysis
+- Linear regression model
+- Data visualization (graphs)
+
+The goal is to understand how study hours affect student performance.
